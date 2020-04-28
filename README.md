@@ -1,4 +1,4 @@
-# Etiketten-Verwaltung-Brother-QL-700 for Linux
+# Etiketten Verwaltung Brother-QL-700 for Linux
 
 ## Dependensies
 
