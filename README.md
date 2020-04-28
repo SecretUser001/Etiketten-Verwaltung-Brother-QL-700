@@ -2,14 +2,18 @@
 
 ## Dependensies
 
-Pycairo - install with ```pip install --upgrade pycairo```
+Python - install with ```sudo apt-get install python3.6```
 
-Qrcode - install with ```pip install --upgrade qrcode[pil]```
+Pip3 - install with ```sudo apt install python3-pip```
 
-Terminaltables - install with ```pip install --upgade Terminaltables```
+To install Pycairo, Qrcode and Terminaltables run ```install.sh```
 
 ## Setup
 
 1. Install all dependensies
 
-2. Run ```verwaltung.py help``` for help
+2. If you've installed Python in /usr/bin/ run ```verwaltung.py help```
+
+Else run ```python verwaltung.py help``` for help
+
+
