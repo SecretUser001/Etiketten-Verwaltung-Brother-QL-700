@@ -149,7 +149,7 @@ def safeIndex(index, fname):
 
 def printlabel(l):
     os.system(
-        "~/.local/bin/brother_ql -m QL-700 -p usb://0x04f9:0x2042 print -l 38 ~/PycharmProjects/EtikettenDrucker/" + l)
+        "~/.local/bin/brother_ql -m QL-700 -p usb://0x04f9:0x2042 print -l 38 " + l)
 
 
 def printIndex(index):
